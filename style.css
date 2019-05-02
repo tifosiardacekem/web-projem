@@ -3,8 +3,8 @@ body {
 	padding: 0;
 	line-height: 1.5em;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	font-size: 12px;
-	color: #543d27;
+	font-size: 14px;
+	color: blue;
 	background: #2c261d;
 }
 		
@@ -170,14 +170,14 @@ h4 {
 }
 
 #banner h2 {
-	color: #eaecd0;
+	color: white;
 	font-size: 22px;
 	line-height: 25px;
 	margin-bottom: 24px;
 }
 
 #banner p {
-	color: #eeefd4;
+	color: white;
 	font-size: 16px;
 	line-height: 25px;
 	margin-bottom: 30px;
@@ -228,7 +228,7 @@ h4 {
 	position: relative;
 	float: right;
 	width: 180px;
-	color: #20150f;
+	color: black;
 	background: #967853 url(images/side_column_top.png) no-repeat;;
 	margin: 0 50px 50px 0;
 	padding: 20px 20px 0 20px;
